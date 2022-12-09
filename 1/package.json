@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@parcel/transformer-typescript-tsc": "^2.8.1",
+    "@parcel/validator-typescript": "^2.8.1",
+    "parcel": "^2.8.1",
+    "typescript": "^4.9.4"
+  }
+}
